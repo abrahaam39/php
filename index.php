@@ -1,6 +1,6 @@
 <?php 
 
 echo '<p>Bonjour le monde</p>';
-PHPINFO
+PHPINFO;
 
  ?>
